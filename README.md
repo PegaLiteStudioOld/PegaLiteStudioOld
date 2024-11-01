@@ -48,6 +48,9 @@
   </a>
 </div>
 
+### Contact : 
+<a href="mailto:trademark&#64;luzfaltex.com">sahilthegeek999@gmail.com</a>
+
 ###
 
 <br clear="both">
